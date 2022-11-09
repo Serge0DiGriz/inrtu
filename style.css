@@ -21,7 +21,7 @@ iframe {
 }
 
 /*адрес*/
-adress {
+footer {
     text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -59,9 +59,8 @@ justify-content: flex-start;
 .item_column{
     flex-basis: 200px;
 }
-footer {
-    text-align: center;
-}
+
+
 
 .ul-block1{
 list-style-type: none;
@@ -71,13 +70,13 @@ justify-content: space-evenly;
 height: 100%;
 }
 
-ul{
+.ul-block{
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
 }
 
-ul > li{
+.ul-block > li{
 
     margin-top: 5px;
     margin-right: 30px;
@@ -86,7 +85,7 @@ ul > li{
     flex-basis: 225px;
 }
 
- ul > li > i {
+ .ul-block > li > i {
     width: 40px;   
     font-size: 20px;
     padding-left: 15px;
