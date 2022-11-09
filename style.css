@@ -70,13 +70,13 @@ justify-content: space-evenly;
 height: 100%;
 }
 
-.ul-block{
+.ul-block2 {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
 }
 
-.ul-block > li{
+.ul-block2 > li{
 
     margin-top: 5px;
     margin-right: 30px;
@@ -85,7 +85,7 @@ height: 100%;
     flex-basis: 225px;
 }
 
- .ul-block > li > i {
+ .ul-block2 > li > i {
     width: 40px;   
     font-size: 20px;
     padding-left: 15px;
