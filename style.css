@@ -17,7 +17,8 @@ iframe {
     margin-top: 10px;
     margin-bottom: 30px;
     box-shadow: 0 0 15px silver;
-    border-radius: 10px;    
+    border-radius: 10px;
+    justify-content: center
 }
 
 /*адрес*/
