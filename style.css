@@ -57,7 +57,7 @@ flex-wrap: wrap;
 justify-content: flex-start;
 }
 .item_column{
-    flex-basis: 200px;
+    margin: 10px;
 }
 
 
@@ -67,7 +67,6 @@ list-style-type: none;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-evenly;
-height: 100%;
 }
 
 .ul-block2 {
@@ -100,7 +99,7 @@ height: 100%;
     max-width: 200px;
     margin: 20px;
     text-align: center;
-
+    height: 100%;
     border-radius: 2%; 
    
 }
